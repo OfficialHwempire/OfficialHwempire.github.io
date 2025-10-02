@@ -2,7 +2,7 @@
 date: 2025-10-02
 layout: post
 title: JAVA Stream API Map과 FlatMap 의 차이점
-categories: [개발 공부]
+categories: [개발공부]
 tags: [JAVA]
 
 ---
